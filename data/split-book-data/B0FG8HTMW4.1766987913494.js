@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Black Coffee and Ice Water</i>, Patton Oswalt's 10th hour of brand-new material, marks an exciting new chapter in Audible's foray into the world of stand-up. The Emmy- and Grammy-winning performer wrestles with religion, wolves, parenting a teenager, and musical theater. He mostly loses.</p>"; 
