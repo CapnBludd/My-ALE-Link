@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>UNEARTHED SECRETS, UNIMAGINABLE POWER.</p> <p>Our intrepid heroes—Rhett, Dinah, and Fabien—are plunged once again into the world of ancient artifacts and clandestine organizations.</p> <p>The Sacred Stone is the electrifying second installment of The ENIGMA Files series.</p>"; 
