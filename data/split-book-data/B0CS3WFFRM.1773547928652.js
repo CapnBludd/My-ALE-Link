@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This frequency aids in the release of endorphins, the body's natural mood elevators. It also reduces the activity of the amygdala and stress-related brain networks, fostering a sense of calm and reducing negative mental patterns.</p>"; 
