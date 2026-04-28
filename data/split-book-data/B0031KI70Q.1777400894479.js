@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Meriet Aspley, a young novitiate, causes havoc at the Shrewsbury monastery when his violent nightmares cause him to scream his anguish in the dead of night, earning him the nickname, Devil's Novice."; 
