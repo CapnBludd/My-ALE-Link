@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Learn about the light and dark sides of the Force, and those who are sensitive to it. This story spans the entire Star Wars saga and introduces listeners to heroes like Luke Skywalker, Yoda, and Rey, as well as villains like Darth Vader, Darth Maul, and Kylo Ren!</p>"; 

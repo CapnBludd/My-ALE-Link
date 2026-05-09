@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>When the </b><b><i>Star Nomad </i></b><b>stops at the space station Saranth Three to drop off refugees, Captain Alisa Marchenko doesn’t expect any trouble. </b></p> <p>But not all is as it seems at the station, and she and her crew soon find themselves embroiled in a fight for their lives.</p>"; 
