@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the third novel of the Liaden Universe, Priscilla Delacroix is betrayed and abandoned by her shipmates. But confronting the crew will be far easier - and safer - than confronting the demons of her past.</p>"; 

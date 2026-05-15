@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Cadfael's return to his Welsh homeland for a visit proves a rather discomfiting homecoming when an honorable nobleman turns up in a patch of forest with an arrow embedded in his chest. There are questions about the arrow, the man's daughter needs Cadfael's help, and a very odd burial takes place."; 

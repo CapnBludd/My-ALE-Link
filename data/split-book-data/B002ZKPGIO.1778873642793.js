@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "As England's civil war draws to a close, two travelers arrive at Cadfael's herbarium door: the dark-eyed Ciaran who has vowed to walk unshod as a kind of penance and, his companion, Matthew. When Cadfael's old friend arrives with a tale of murder, the youths' puzzling association becomes darker and more inscrutable."; 

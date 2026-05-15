@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Stimulating the brain's frontal lobes, regions associated with higher cognitive functions like concentration, decision-making, and problem-solving, this frequency enhances beta wave activity in the brain, which is linked to alertness and logical thinking, making it beneficial for tasks requiring intense focus and analytical skills.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Captain Kirk, facing retirement and the end of his adventurous career, accepts the offer of a mysterious woman to undertake a voyage to an uncharted planet, where a serious threat to the fragile peace between the Federation and the Klingons may be brewing. There he also finds a nearly irresistible temptation -- a chance to recapture his faded youth."; 
