@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>In the final days of the empire, Cyborg Corps Colonel Leonidas Adler plans to die in a manner befitting of an imperial officer. </b></p> <p>He will fight until his last breath, giving his life to defend Emperor Markus, as it was meant to be. But when the emperor himself summons him for a final special mission, how can he refuse?</p>"; 
