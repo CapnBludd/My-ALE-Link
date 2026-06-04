@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>When Jimmy Pirano gets called to the home office, his sister, Angela, gets stuck with sorting out the mess he leaves behind.</b></p> <p>Otto Krugg must find a way to continue after his losses. Can he find happiness on the other end of the South Coast?</p>"; 
