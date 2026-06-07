@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Season two of this action-packed audio drama plunges listeners back into a ravaged world of violence and terror. </p> <p>The hope of a better life forces the survivors of the Tower out into the dissolving world around them. The consequences of past battles leave them struggling not only with each other but the remaining fragments of humanity.</p>"; 
