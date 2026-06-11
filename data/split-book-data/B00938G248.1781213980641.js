@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The second novel of the Liaden Universe, <i>Scout's Progress</i> is the story of a young girl who has won a starship, but now must learn to fly if she is to escape her dastardly brother.</p>"; 
