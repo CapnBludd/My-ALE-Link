@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>It pays to take a second look.</b></p> <p>In the Deep Dark, it's a long walk home.</p> <p>The <i>Marva Collins</i> runs into unexpected problems a long way from port. Faced with some hard decisions and uncertain about the choices, Ishmael has to roll the dice with inadequate information.</p> <p>Is he sailing too close to the edge of forever?</p>"; 

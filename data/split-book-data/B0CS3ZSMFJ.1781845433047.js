@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Resonating with the body's biofield, this frequency enhances communication and emotional connection. It also stimulates the release of oxytocin, known as the \"love hormone\", which plays a significant role in bonding and intimacy while enhancing emotional openness and trust, key components in deepening sexual and romantic connections.</p>"; 
