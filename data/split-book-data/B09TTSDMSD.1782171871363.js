@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Litany of the Long Sun</i> contains the full texts of <i>Nightside the Long Sun</i> and <i>Lake of the Long Sun</i> that together make up the first half of The Book of the Long Sun. This great work is set on a huge generation starship in the same future as the classic Book of the New Sun (also available in two volumes from Orb).</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Revered for stimulating the pineal gland, this frequency enhances mental clarity and promotes a positive energy flow; transforming negative thoughts and balancing emotions, essential for facing daily challenges with equanimity.</p>"; 

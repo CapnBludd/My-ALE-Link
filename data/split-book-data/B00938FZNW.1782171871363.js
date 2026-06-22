@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The first of the seven books set in the Liaden Universe tells a rich and sweeping story of warring families and star-crossed lovers in a fantastic, other-world galaxy. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>With nearly a quarter of a million copies sold, the world's most thrilling and best-loved military zombie-apocalypse series returns, powering toward its epic and cataclysmic conclusion.</p>"; 

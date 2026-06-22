@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This is the fifth novel in the action-packed series following Special Forces Captain Lee Harden and a group of survivors struggling to make their way in a ruined world. After a bacterium has turned 90 percent of the population into a ravenous horde, Lee must complete his mission: SURVIVE, RESCUE, REBUILD. </p>"; 
