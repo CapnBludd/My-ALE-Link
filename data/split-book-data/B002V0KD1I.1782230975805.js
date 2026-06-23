@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<i>New York Times</i> best-selling author Laurie R. King has won or been nominated for every major award in mystery writing. King's beloved sleuth Mary Russell here attempts to reverse her legendary husband, Sherlock Holmes', greatest failure."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Between the fall of man and the arrival of the <i>JFK</i>, the Horn of Africa is a battleground. </p> <p>Salvation. Vengeance. Vanity. </p> <p><i>Nemesis</i> can be listened to as a standalone novel, as an intro to the series, or at any point alongside the main series. </p>"; 
