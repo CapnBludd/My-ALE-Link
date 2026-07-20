@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>How would you spend your last night on Earth? When the moon suddenly starts shining brighter, Stan and Leslie realize the sun must have gone nova, and they only have a few hours until the earth rotates into the deadly sunshine. </p> <p>This story won a Hugo Award and was made into an episode of <i>The Outer Limits</i>. </p>"; 
