@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A mysterious pair of monks, whose abbey has burned down, have come to Shrewbury seeking refuge. Their story is tragic, and Cadfael quickly senses, riddled with half-truths. What dark secret are these strange monks hiding?"; 
