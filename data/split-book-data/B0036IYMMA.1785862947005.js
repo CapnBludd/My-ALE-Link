@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A wealthy widow rents her house to the Shrewsbury Abbey for the price of a single rose cut from the bush near the house. Shortly before the rent is due, the rosebush is destroyed and the widow kidnapped. Brother Cadfael must discover who stands to gain from these peculiar crimes."; 
