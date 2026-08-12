@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Shortly after he inherits the powerful position of Lord of Eaton, 10-year-old Richard Ludel disappears from Shrewsbury Abbey, where he had been a student. Did he run away or was he kidnapped? Brother Cadfael suspects the hermit of Eyton Forest, a mysterious man rumored to have holy powers, knows the answer."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "When the village of Shrewsbury's own sheriff, Gilbert Prestcote, is taken prisoner by the Empress Maud's forces, its citizens are prepared to exchange him for a man of equal value they have within their possession. But soon after Prestcote arrives for the prisoner exchange, he dies. Was it death by natural causes or a most unnatural murder?"; 
