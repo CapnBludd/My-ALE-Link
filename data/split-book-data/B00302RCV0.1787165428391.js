@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "In the middle of the abbey's evening services, an angry mob pursues a young boy into the sacred peace of the sanctuary. Terrified and in tatters, he clutches at the altar-cloth, grasping for mercy in the only sure place he might find it. He is accused of robbery and murder, but Cadfael senses his innocence and sets out to prove it."; 

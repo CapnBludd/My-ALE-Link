@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The first of the acclaimed <i>Vatta's War</i> books, the exciting military science fiction series that features a swashbuckling spaceship-captain heroine who mixes commerce with combat."; 
