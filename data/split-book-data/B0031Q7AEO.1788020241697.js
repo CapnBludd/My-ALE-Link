@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "When a fatal draught of Monk's Hood turns up in the dinner plate of a guest at the Shrewsbury abbey, fingers point at half a dozen likely suspects, including an abashed and bewildered Cadfael."; 
