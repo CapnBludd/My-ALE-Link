@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "Civil war continues to blaze in the autumn of 1139. Amid the uncertainty and peril of the moment two noble children make their escape, headed for Shrewsbury. But for reasons no one knows, the young fugitives never reach their destination."; 

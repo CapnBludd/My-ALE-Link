@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Authors Jeffery Deaver, Lee Child, David Hewson, and Jim Fusilli discuss the creation of <i>The Copper Bracelet</i>, the sequel to the Audiobook of the Year, <i>The Chopin Manuscript</i>. The conversation was recorded at ThrillerFest 2009 in New York City.</p>"; 
